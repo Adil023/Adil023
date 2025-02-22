@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adil Gadirov</h1>
-<h3 align="center">I am a Software Engineer and Java Backend Developer with a strong passion for crafting scalable, reliable, and high-performance backend systems. My expertise lies in leveraging Java, Spring Boot, and cutting-edge technologies to build robust solutions that meet real-world challenges. I thrive on solving complex problems, collaborating with teams, and delivering impactful solutions. My GitHub showcases projects where innovation meets technical excellence, from financial management systems to scalable microservices. Let’s connect, build, and innovate together! 🚀.</h3>
+<h3 align="center">I am a passionate Java Backend Developer, continuously improving my skills in building scalable and reliable backend systems. I work with Java, Spring Boot, and SQL, focusing on writing clean and efficient code. I enjoy solving challenging problems, learning new technologies, and sharing my progress through open-source projects. Check out my GitHub for projects where I apply my knowledge in backend development. Let's connect and grow together! 🚀 .</h3>
 
 - 🌱 I’m currently learning **Microservices Architecture**
 
