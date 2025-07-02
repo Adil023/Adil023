@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Spring Boot, Java SE, Data Structures, Design Patterns, Microservices**
 
-- 📫 How to reach me **edilqedirov023@gmail.com**
+- 📫 How to reach me **adil.gadirov.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
